@@ -1,0 +1,32 @@
+{
+    "name": "自用订阅-抄自樱花",
+    "description": "如有侵权请联系我删除",
+    "task": [
+        {
+            "config": "10 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/ampDache.js, tag=高德地图打车签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Gddt.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/gddt.conf, tag=高德地图获取token"
+        },{
+            "config": "15 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/bwcj.js, tag=霸王茶姬小程序签到, img-url=https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/bwcj.conf, tag=霸王茶姬获取token"
+        },{
+            "config": "20 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/jparking_sign.js, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Jtc.png, tag=捷停车签到, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/jtc.conf, tag=捷停车获取token"
+        },{
+            "config": "30 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/aDriveCheckIn.js, tag=阿里云签到, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/aliiyun.conf, tag=阿里云获取token"
+        },{
+            "config": "5 9 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/smzdm_daily.js, tag=什么值得买每日签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Smzdm.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/smzdm.conf, tag=什么值得买获取token"
+        },{
+            "config": "10 9 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/quarkcloud.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/quark.conf, tag=夸克网盘签到获取token"
+        },{
+            "config": "10 9 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/xmSports.js, tag=小米运动刷步, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=false",
+            "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/xmSport.conf, tag=小米运动获取token"
+        },{
+            "config": "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=Boxjs备份, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png, enabled=false",
+        },{
+            "config": "5 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=Boxjs恢复, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png, enabled=false",
+        }
+    ]
+}
