@@ -21,7 +21,7 @@
             "config": "10 9 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/quarkcloud.js, tag=夸克网盘签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png, enabled=false",
             "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/quark.conf, tag=夸克网盘签到获取token"
         },{
-            "config": "10 9 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/xmSports.js, tag=小米运动刷步, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=false",
+            "config": "10 17 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/xmSports.js, tag=小米运动刷步, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=false",
             "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/xmSport.conf, tag=小米运动获取token"
         },{
             "config": "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=Boxjs备份, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png, enabled=false",
