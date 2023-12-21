@@ -240,22 +240,22 @@
         "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Bwcj.png"
       ],
       "keys": [
-	"bwtoken",
-	"bwbody"	
+	"bw_token",
+	"bw_body"	
       ],
       "descs_html": ["微信霸王茶姬小程序 --> 积分商城 --> 积分签到 --> 签到"],
       "settings": [
        {
-        "id": "bwtoken",
-        "name": "bwtoken",
+        "id": "bw_token",
+        "name": "bw_token",
         "val": "",
         "type": "textarea",
         "placeholder": "",
         "desc": ""
        },
        {
-        "id": "bwbody",
-        "name": "bwbody",
+        "id": "bw_body",
+        "name": "bw_body",
         "val": "",
         "type": "textarea",
         "placeholder": "",
