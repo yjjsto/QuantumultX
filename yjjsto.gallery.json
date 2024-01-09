@@ -7,7 +7,6 @@
             "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/gddt.conf, tag=高德地图获取token"
         },{
             "config": "15 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/bwcj.js, tag=霸王茶姬小程序签到, img-url=https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png, enabled=false",
-            "config": "16 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/bwcj2024.js, tag=霸王茶姬小程序签到, img-url=https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png, enabled=false",
             "addons": "https://raw.githubusercontent.com/yjjsto/QuantumultX/main/corn/bwcj.conf, tag=霸王茶姬获取token"
         },{
             "config": "20 8 * * * https://raw.githubusercontent.com/yjjsto/QuantumultX/main/js/jparking_sign.js, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Jtc.png, tag=捷停车签到, enabled=false",
